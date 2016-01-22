@@ -243,11 +243,11 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[redstorm bot 2.3
     
      Hello my Good friends ߘట搰
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by @djmjcj & @anonymous_x
    〰〰〰〰〰〰〰〰
   @djmjcj
   @anonymous_x
@@ -452,8 +452,8 @@ To tags the every one and sends your message at bottom
 تگ کردن همه ی اعضای گروه و نوشتن پیام شما زیرش
 〰〰〰〰〰〰〰〰〰
 More plugins  soon ...
-⚠️ We are Creeds ⚠️
-our channel : @creedantispam_channel
+⚠️ We are dangerous ⚠️
+our channel : @redstormch
 کانال ما
 You Can user both "!" & "/" for them
 می توانید از دو شکلک !  و / برای دادن دستورات استفاده کنید
