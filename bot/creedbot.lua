@@ -239,7 +239,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {139837032},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -250,10 +250,8 @@ function create_config( )
     ‼️ this bot is made by : @creed_is_dead
    〰〰〰〰〰〰〰〰
    ߚ頏ur admins are : 
-   ߔࠀsorblack_creed
-   ߔࠀamircc_creed
-   ߔࠀaria_creed
-   ߔࠀalireza_mah_creed 
+   @djmjcj
+   @anonymous_x
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -326,7 +324,7 @@ This command will send text to [group_id]✉️
 با این دستور میتونید به گروه توسط ربات متنی را بفرستید 
 
 You Can user both "!" & "/" for themߎ犙囌توانید از دو شکلک !  و / برای دادن دستورات استفاده کنید
-
+و برای ساخت گروه به @djmjcj و@anonymous_x ده استیکر بدید
 
 ]],
     help_text = [[
@@ -457,7 +455,7 @@ shows bt statsߔꊘ蘱ای دیدن آمار ربات کرید
 ⚠️ We are Creeds ... ⚠️
 our channel : @creedantispam_channelߔ늚阧نال ما 
 You Can user both "!" & "/" for themߎ犙囌توانید از دو شکلک !  و / برای دادن دستورات استفاده کنید
-]]
+و برای ساخت گروه به @djmjcj و@anonymous_x ده استیکر بدید]]
 
   }
   serialize_to_file(config, './data/config.lua')
