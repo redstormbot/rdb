@@ -29,5 +29,5 @@ return {
     "^!block (user) (%d+)$",
   },
   run = run,
- -- https://github.com/SEEDTEAM/TeleSeed --
+ -- @anonymous_x --
 }
