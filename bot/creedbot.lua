@@ -238,6 +238,8 @@ function create_config( )
     "invite",
     "all",
     "leave_ban"
+    "spammer"
+    "spamwili"
     },
     sudo_users = {139837032},--Sudo users
     disabled_channels = {},
